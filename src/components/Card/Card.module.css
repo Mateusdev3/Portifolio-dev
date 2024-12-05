@@ -1,0 +1,49 @@
+.card{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+    background-color: var(--primary);
+
+  
+}
+.card p{
+    font-size: 15px;
+   
+  
+}
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 130px;   
+}
+.botao{
+    width: 30px;
+    height: 30px;
+    background-color: var(--red);
+    border-radius: 6px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ico{
+    display: flex;
+    font-size: 25px;
+}
+.card:hover{
+    box-shadow: 0px 0px 40px var(--red);
+    
+}
+.botao:hover{
+    box-shadow: 0px 0px 10px var(--red);
+    
+}
