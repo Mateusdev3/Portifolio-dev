@@ -16,7 +16,7 @@ function Contatos() {
                     </p>
                     </div>
                     <div className={styles.icones}>
-                        <a href='mailto:devmadara226@gmail.com' target='_blank' rel='noopener noreferrer' >
+                        <a href='mailto:mateusesteves33@gmail.com' target='_blank' rel='noopener noreferrer' >
                        <GoMail className={styles.icone} /> Email 
                         </a>
                         <a href='https://www.instagram.com/theus__0013/' target='_blank' rel='noopener noreferrer'>
@@ -27,7 +27,7 @@ function Contatos() {
                        <BsDiscord className={styles.icone} />  Discord
                         </a>
 
-                        <a href='https://github.com/Theus00637' target='_blank' rel='noopener noreferrer'>
+                        <a href='https://github.com/Mateusdev3' target='_blank' rel='noopener noreferrer'>
                         <BsGithub className={styles.icone} /> Github
                         </a>
 
