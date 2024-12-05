@@ -23,6 +23,7 @@ function AppRoutes() {
                 </Routes>
             </Container>
             <Footer />
+            
         </BrowserRouter>
         </>
     )

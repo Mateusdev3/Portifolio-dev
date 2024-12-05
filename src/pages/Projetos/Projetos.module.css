@@ -23,14 +23,13 @@
     flex-wrap: wrap;
     gap: 50px;
     height: 68vh;
-    
 
     
 }
 @media(max-width: 668px){
     .card{
         padding: 50px;
-        flex-direction: column;
-
+        height: 90vh;
+    
     }
 }

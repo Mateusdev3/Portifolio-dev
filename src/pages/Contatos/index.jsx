@@ -12,7 +12,7 @@ function Contatos() {
                     <div className={styles.textos}>
                     <p>
                     <span>Contatos</span><br/>
-                    Entre em contato para mais informações <br/>Suporte apenas via Discord <br/>
+                    Entre em contato para mais informações 
                     </p>
                     </div>
                     <div className={styles.icones}>

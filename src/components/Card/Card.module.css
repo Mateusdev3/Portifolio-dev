@@ -17,7 +17,6 @@
 .card p{
     font-size: 15px;
    
-  
 }
 .icons{
     display: flex;
@@ -46,4 +45,15 @@
 .botao:hover{
     box-shadow: 0px 0px 10px var(--red);
     
+}
+@media(max-width: 668px){
+    .card{
+        width: 250px;
+        height: 250px;
+        font-size: 15px;
+    }
+    .icons{
+        gap: 70px;
+
+    }
 }
